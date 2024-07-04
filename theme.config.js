@@ -4,7 +4,7 @@ export default {
   footer: (
     <footer>
       <small>
-        <time>{YEAR}</time> © Your Name.
+        <time>{YEAR}</time> © Islamic Reminders by Amatullah
         <a href="/feed.xml">RSS</a>
       </small>
       <style jsx>{`
